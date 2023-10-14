@@ -1,0 +1,73 @@
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"error","message":"Cannot destructure property 'username' of 'body' as it is undefined."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"error","message":"Cannot destructure property 'userName' of 'body' as it is undefined."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"error","message":"Cannot destructure property 'userName' of 'body' as it is undefined."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"error","message":"Cannot destructure property 'userName' of 'body' as it is undefined."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account "}
+{"level":"error","message":"User validation failed: lastNameName: Path `lastNameName` is required."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account "}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /users/652ad63b1705e6371a13a4d3"}
+{"level":"info","message":"Checking  for user with id account 652ad63b1705e6371a13a4d3"}
+{"level":"info","message":"User Found"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"error","message":"secretOrPrivateKey must have a value"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /users/652ad63b1705e6371a13a4d3"}
+{"level":"info","message":"API hit: GET /users/652ad63b1705e6371a13a4d3"}
+{"level":"info","message":"API hit: GET /users/652ad63b1705e6371a13a4d3"}
