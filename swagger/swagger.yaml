@@ -3,10 +3,22 @@ info:
   title: Task Mangement System
   description: Documentation for all backend apis
   version: 1.0.0
+components:
+  securitySchemes:
+    jwt:
+      type: apiKey
+      name: Authorization
+      in: header
+
+security:
+  - jwt: []
 
 paths:
   /auth/signup:
     post:
+      summary: Create new user
+      tags:
+        - Authentication
       description: Register user
       requestBody: 
         required: true
@@ -15,7 +27,7 @@ paths:
           schema:
             type: object
             properties:
-            firstName:
+              firstName:
                 type: string
                 example: hadi
               lastName:
@@ -25,28 +37,30 @@ paths:
                 type: string
                 example: hadi.noureddine
               email:
-              type: string
-              example: hadi@gmail.com
+                type: string
+                example: hadi@gmail.com
               password:
                 type: string
                 example: Password123 
               role:
                type: string
                example: admin
-      responces:
-     201:
-          description: User added successfully
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  token:
-                    type: string
-                    example: h1g23jhg12g3
+        responses:
+          201:
+            description: User added successfully
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    token:
+                      type: string
+                      example: h1g23jhg12g3
   /auth/signin:
-   post:
+    post:
       description: signin user
+      tags:
+        - Authentication
       requestBody: 
         required: true
         content:
@@ -57,29 +71,131 @@ paths:
               userName:
                 type: string
                 example: hadi.noureddine
-                password:
+              password:
                 type: string
                 example: Password123 
-              
-      responces:
-     201:
-          description: User added successfully
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  token:
-                    type: string
-                    example: h1g23jhg12g3
-/tasks:
-  post:
-  get:
-/tasks/:id:
-get:
-put:
-delete:
-/users/:id:
-get:
-put:
-delete:  
+      responses:
+          201:
+            description: User added successfully
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    token:
+                      type: string
+                      example: h1g23jhg12g3
+  /users/{userId}:
+    get:
+      summary: Get user by id
+      tags:
+        - Users
+      parameters:
+        - in: path
+          name: userId
+          required: true
+          schema:
+            type: string
+          description: The ID of the user to retrieve
+      responses:
+          200:
+            description: User fetched successfully
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    firstName:
+                      type: string
+                      example: hadi
+                    lastName:
+                      type: string
+                      example: noureddine
+                    userName:
+                      type: string
+                      example: hadi.noureddine
+                    email:
+                      type: string
+                      example: hadi@gmail.com
+                    password:
+                      type: string
+                      example: Password123 
+                    role:
+                      type: string
+                      example: admin
+    delete:
+      summary: Delete user by id
+      tags:
+        - Users
+      parameters:
+        - in: path
+          name: userId
+          required: true
+          schema:
+            type: string
+          description: The ID of the user to delete
+      responses:
+          200:
+            description: User deleted successfully
+    put:
+      summary: Updated user by id
+      tags:
+        - Users
+      parameters:
+        - in: path
+          name: userId
+          required: true
+          schema:
+            type: string
+          description: The ID of the user to retrieve
+      requestBody: 
+        required: true
+        content:
+         application/json:
+          schema:
+            type: object
+            properties:
+              firstName:
+                type: string
+                example: hadi
+              lastName:
+                type: string
+                example: noureddine
+              userName:
+                type: string
+                example: hadi.noureddine
+              email:
+                type: string
+                example: hadi@gmail.com
+              password:
+                type: string
+                example: Password123 
+              role:
+               type: string
+               example: admin
+      responses:
+          200:
+            description: User fetched successfully
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    firstName:
+                      type: string
+                      example: hadi
+                    lastName:
+                      type: string
+                      example: noureddine
+                    userName:
+                      type: string
+                      example: hadi.noureddine
+                    email:
+                      type: string
+                      example: hadi@gmail.com
+                    password:
+                      type: string
+                      example: Password123 
+                    role:
+                      type: string
+                      example: admin

@@ -112,4 +112,10 @@ const getTasksCreatedByAdmin = async (req, res) => {
     res.send("Failed to fetch tasks");
   }
 };
-module.exports = { getTasks, createTask, updateTask, getTasksCreatedByAdmin };
+module.exports = {
+  getTasks,
+  createTask,
+  updateTask,
+  getTasksCreatedByAdmin,
+  deleteTask,
+};

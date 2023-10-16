@@ -48,7 +48,7 @@ const deleteUser = async (req, res) => {
 
     logger.info(`Checking for user with id ${id}`);
 
-    const user = await User.findByIdAndDelete({ _id: id });
+    await User.findByIdAndDelete({ _id: id });
 
     logger.info("Deleted ");
 
