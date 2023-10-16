@@ -85,19 +85,19 @@ const deleteTask = async (req, res) => {
 
 const getTasksCreatedByAdmin = async (req, res) => {
   try {
-    const { createdBy } = req.query;
+    // const { adminId } = req.params;
+    const tasks = await Task.find({ createdBy: "admin" });
 
-    logger.info("Fetching tasks");
+    if (tasks.length === 0) {
+      return res
+        .status(404)
+        .json({ message: "No tasks found for this admin." });
+    }
 
-    const tasks = await Task.find({ createdBy });
-
-    logger.info("tasks fetched");
-
-    res.status(200);
-    res.json({ tasks });
+    return res.status(200).json({ tasks });
   } catch (error) {
-    res.status(500);
-    res.send("Failed to fetch tasks");
+    console.error(error);
+    res.status(500).json({ message: "Failed to fetch tasks." });
   }
 };
 module.exports = {

@@ -11,7 +11,12 @@ const validateToken = require("../middlewares/validateToken");
 const router = express.Router();
 
 router.post("/tasks", validateToken, validateRole, createTask);
-router.get("/tasks", validateToken, validateRole, getTasksCreatedByAdmin);
+router.get(
+  "/tasks/createdBy",
+  validateToken,
+  validateRole,
+  getTasksCreatedByAdmin
+);
 router.get("/tasks/:id", validateToken, validateRole, getTask);
 router.put("/tasks/:id", validateToken, validateRole, updateTask);
 router.delete("/tasks/:id", validateToken, validateRole, deleteTask);

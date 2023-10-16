@@ -1049,3 +1049,176 @@
 {"level":"info","message":"API hit: GET /tasks/652d949a4df98ffa67b495f2"}
 {"level":"info","message":"Checking for task with id 652d949a4df98ffa67b495f2"}
 {"level":"info","message":"task Found"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /Tasks"}
+{"level":"info","message":"Fetching tasks"}
+{"level":"info","message":"tasks fetched"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Fetching tasks"}
+{"level":"info","message":"tasks fetched"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /Tasks"}
+{"level":"info","message":"Fetching tasks"}
+{"level":"info","message":"tasks fetched"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /Tasks"}
+{"level":"info","message":"Fetching tasks"}
+{"level":"info","message":"tasks fetched"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdby"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdBy/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdBy/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdBy/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"API hit: GET /tasks/createdby/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"API hit: GET /tasks/createdby"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /tasks/createdBy"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /tasks/createdBy"}

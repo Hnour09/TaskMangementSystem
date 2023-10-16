@@ -226,17 +226,11 @@ paths:
       responses:
         201:
           description: Task added successfully
+  /tasks/createdBy:
     get:
-      summary: Get task by id
+      summary: Get task created by admin
       tags:
         - Tasks
-      parameters:
-        - in: path
-          id: taskId
-          required: true
-          schema:
-            type: string
-          description: The ID of the task to retrieve
       responses:
         200:
           description: task fetched successfully
