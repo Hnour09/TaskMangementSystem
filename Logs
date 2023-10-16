@@ -767,3 +767,10 @@
 {"level":"info","message":"API hit: DELETE /users/652d6f5be16b3b086a96dfb5"}
 {"level":"info","message":"Checking for user with id 652d6f5be16b3b086a96dfb5"}
 {"level":"info","message":"Deleted "}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
