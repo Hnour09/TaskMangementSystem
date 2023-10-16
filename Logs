@@ -30,3 +30,486 @@
 {"level":"info","message":"API hit: GET /users/652ad63b1705e6371a13a4d3"}
 {"level":"info","message":"Checking  for user with id account 652ad63b1705e6371a13a4d3"}
 {"level":"info","message":"User Found"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /docs"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /docs/favicon-16x16.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET //docs"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /docs/favicon-16x16.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /docs/favicon-16x16.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /docs/favicon-16x16.png"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /favicon.ico"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /favicon.ico"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /favicon.ico"}
+{"level":"info","message":"API hit: GET /favicon.ico"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /docs/favicon-32x32.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /docs/"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signUp"}
+{"level":"info","message":"Creating account"}
+{"level":"error","message":"User validation failed: role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., userName: Path `userName` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required."}
+{"level":"info","message":"API hit: POST /auth/signUp"}
+{"level":"info","message":"Creating account"}
+{"level":"error","message":"User validation failed: role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., userName: Path `userName` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required."}
+{"level":"info","message":"API hit: POST /auth/signUp"}
+{"level":"info","message":"Creating account"}
+{"level":"error","message":"User validation failed: role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., userName: Path `userName` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
