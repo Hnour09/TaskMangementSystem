@@ -3,7 +3,7 @@ const bcrypt = require("bcrypt");
 const logger = require("../logger");
 const Task = require("../models/task");
 
-const getTasks = async (req, res) => {
+const getTask = async (req, res) => {
   try {
     const { id } = req.params;
 
@@ -47,28 +47,16 @@ const createTask = async (req, res) => {
 const updateTask = async (req, res) => {
   try {
     const { id } = req.params;
-
     const body = req.body;
     // before creating account check if user name exist
     logger.info("Updating task");
 
-    const updatedTask = await Task.findByIdAndUpdate({ _id: id }, body, {
+    await Task.findByIdAndUpdate({ _id: id }, body, {
       new: true,
     });
 
-    // Check if the task was successfully updated
-    if (!updatedTask) {
-      logger.info("Task not found or failed to update");
-      res.status(404).send("Task not found or failed to update");
-      return;
-    }
-
     logger.info("Task Updated successfully");
-
-    // Assuming you want to send back the updated task
-    res
-      .status(200)
-      .json({ message: "Task updated successfully", data: updatedTask });
+    res.status(200).send("Task updated");
   } catch (error) {
     logger.error(error?.message);
     res.status(500).send("Failed to update task");
@@ -113,7 +101,7 @@ const getTasksCreatedByAdmin = async (req, res) => {
   }
 };
 module.exports = {
-  getTasks,
+  getTask,
   createTask,
   updateTask,
   getTasksCreatedByAdmin,

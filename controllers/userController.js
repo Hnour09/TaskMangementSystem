@@ -31,7 +31,7 @@ const updateUser = async (req, res) => {
 
     const user = await User.findByIdAndUpdate({ _id: id }, body, { new: true });
 
-    logger.info("updated ");
+    logger.info("updated user ");
 
     res.status(200);
     res.send({ user });

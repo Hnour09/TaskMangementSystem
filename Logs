@@ -774,3 +774,278 @@
 {"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
 {"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
 {"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /tasks"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"info","message":"Deleting task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"API hit: PUT /tasks/%7BuserId%7D"}
+{"level":"info","message":"Updating task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: PUT /tasks/%7BuserId%7D"}
+{"level":"info","message":"Updating task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"info","message":"Deleting task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{userId}\" (type string) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"info","message":"Deleting task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: PUT /tasks/%7BuserId%7D"}
+{"level":"info","message":"Updating task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"error","message":"mongoose is not defined"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"error","message":"Class constructor ObjectId cannot be invoked without 'new'"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"error","message":"Class constructor ObjectId cannot be invoked without 'new'"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"error","message":"Class constructor ObjectId cannot be invoked without 'new'"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"error","message":"ObjectId is not defined"}
+{"level":"info","message":"API hit: GET /authorized/updateTask/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"API hit: GET /auth/signin"}
+{"level":"info","message":"API hit: GET /auth/signin"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: PUT /authorized/updateTask/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"API hit: PUT /authorized/updateTask/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"API hit: PUT /Tasks/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: PUT /Tasks/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: DELETE /Tasks/652d7be5f91135d242c9d3af"}
+{"level":"error","message":"ObjectId is not defined"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: DELETE /Tasks/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"Deleting task"}
+{"level":"info","message":"Task Deleted successfully"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: PUT /Tasks/652d7be5f91135d242c9d3af"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: PUT /Tasks/652b036b51b1e592524e8ddb"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: DELETE /Tasks/652b036b51b1e592524e8ddb"}
+{"level":"info","message":"Deleting task"}
+{"level":"info","message":"Task Deleted successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: GET /Tasks/652b036b51b1e592524e8ddb"}
+{"level":"info","message":"Checking for task with id 652b036b51b1e592524e8ddb"}
+{"level":"info","message":"task Found"}
+{"level":"info","message":"API hit: GET /Tasks/652d88a8ab8c527784a8e7b3"}
+{"level":"info","message":"Checking for task with id 652d88a8ab8c527784a8e7b3"}
+{"level":"info","message":"task Found"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /tasks/%7BuserId%7D"}
+{"level":"info","message":"Checking for task with id {userId}"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: DELETE /tasks/%7BuserId%7D"}
+{"level":"info","message":"Deleting task"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ _id: '{userId}' }\" (type Object) at path \"_id\" for model \"Task\""}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: GET /api-docs/favicon-32x32.png"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/652d88a8ab8c527784a8e7b3"}
+{"level":"info","message":"Deleting task"}
+{"level":"info","message":"Task Deleted successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: PUT /tasks/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: GET /tasks/652d949a4df98ffa67b495f2"}
+{"level":"info","message":"Checking for task with id 652d949a4df98ffa67b495f2"}
+{"level":"info","message":"task Found"}

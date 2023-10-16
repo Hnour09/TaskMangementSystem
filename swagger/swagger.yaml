@@ -20,31 +20,31 @@ paths:
       tags:
         - Authentication
       description: Register user
-      requestBody: 
+      requestBody:
         required: true
         content:
-         application/json:
-          schema:
-            type: object
-            properties:
-              firstName:
-                type: string
-                example: hadi
-              lastName:
-                type: string
-                example: noureddine
-              userName:
-                type: string
-                example: hadi.noureddine
-              email:
-                type: string
-                example: hadi@gmail.com
-              password:
-                type: string
-                example: Password123 
-              role:
-               type: string
-               example: admin
+          application/json:
+            schema:
+              type: object
+              properties:
+                firstName:
+                  type: string
+                  example: hadi
+                lastName:
+                  type: string
+                  example: noureddine
+                userName:
+                  type: string
+                  example: hadi.noureddine
+                email:
+                  type: string
+                  example: hadi@gmail.com
+                password:
+                  type: string
+                  example: Password123
+                role:
+                  type: string
+                  example: admin
         responses:
           201:
             description: User added successfully
@@ -61,30 +61,30 @@ paths:
       description: signin user
       tags:
         - Authentication
-      requestBody: 
+      requestBody:
         required: true
         content:
-         application/json:
-          schema:
-            type: object
-            properties:
-              userName:
-                type: string
-                example: hadi.noureddine
-              password:
-                type: string
-                example: Password123 
+          application/json:
+            schema:
+              type: object
+              properties:
+                userName:
+                  type: string
+                  example: hadi.noureddine
+                password:
+                  type: string
+                  example: Password123
       responses:
-          201:
-            description: User added successfully
-            content:
-              application/json:
-                schema:
-                  type: object
-                  properties:
-                    token:
-                      type: string
-                      example: h1g23jhg12g3
+        201:
+          description: User added successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  token:
+                    type: string
+                    example: h1g23jhg12g3
   /users/{userId}:
     get:
       summary: Get user by id
@@ -98,31 +98,31 @@ paths:
             type: string
           description: The ID of the user to retrieve
       responses:
-          200:
-            description: User fetched successfully
-            content:
-              application/json:
-                schema:
-                  type: object
-                  properties:
-                    firstName:
-                      type: string
-                      example: hadi
-                    lastName:
-                      type: string
-                      example: noureddine
-                    userName:
-                      type: string
-                      example: hadi.noureddine
-                    email:
-                      type: string
-                      example: hadi@gmail.com
-                    password:
-                      type: string
-                      example: Password123 
-                    role:
-                      type: string
-                      example: admin
+        200:
+          description: User fetched successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  firstName:
+                    type: string
+                    example: hadi
+                  lastName:
+                    type: string
+                    example: noureddine
+                  userName:
+                    type: string
+                    example: hadi.noureddine
+                  email:
+                    type: string
+                    example: hadi@gmail.com
+                  password:
+                    type: string
+                    example: Password123
+                  role:
+                    type: string
+                    example: admin
     delete:
       summary: Delete user by id
       tags:
@@ -135,8 +135,8 @@ paths:
             type: string
           description: The ID of the user to delete
       responses:
-          200:
-            description: User deleted successfully
+        200:
+          description: User deleted successfully
     put:
       summary: Updated user by id
       tags:
@@ -148,54 +148,214 @@ paths:
           schema:
             type: string
           description: The ID of the user to retrieve
-      requestBody: 
+      requestBody:
         required: true
         content:
-         application/json:
-          schema:
-            type: object
-            properties:
-              firstName:
-                type: string
-                example: hadi
-              lastName:
-                type: string
-                example: noureddine
-              userName:
-                type: string
-                example: hadi.noureddine
-              email:
-                type: string
-                example: hadi@gmail.com
-              password:
-                type: string
-                example: Password123 
-              role:
-               type: string
-               example: admin
+          application/json:
+            schema:
+              type: object
+              properties:
+                firstName:
+                  type: string
+                  example: hadi
+                lastName:
+                  type: string
+                  example: noureddine
+                userName:
+                  type: string
+                  example: hadi.noureddine
+                email:
+                  type: string
+                  example: hadi@gmail.com
+                password:
+                  type: string
+                  example: Password123
+                role:
+                  type: string
+                  example: admin
       responses:
-          200:
-            description: User fetched successfully
-            content:
-              application/json:
-                schema:
-                  type: object
-                  properties:
-                    firstName:
-                      type: string
-                      example: hadi
-                    lastName:
-                      type: string
-                      example: noureddine
-                    userName:
-                      type: string
-                      example: hadi.noureddine
-                    email:
-                      type: string
-                      example: hadi@gmail.com
-                    password:
-                      type: string
-                      example: Password123 
-                    role:
-                      type: string
-                      example: admin
+        200:
+          description: User fetched successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  firstName:
+                    type: string
+                    example: hadi
+                  lastName:
+                    type: string
+                    example: noureddine
+                  userName:
+                    type: string
+                    example: hadi.noureddine
+                  email:
+                    type: string
+                    example: hadi@gmail.com
+                  password:
+                    type: string
+                    example: Password123
+                  role:
+                    type: string
+                    example: admin
+  /tasks:
+    post:
+      description: create Task
+      tags:
+        - Tasks
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  example: task
+                description:
+                  type: string
+                  example: test
+                assignedTo:
+                  type: string
+                  example: regular
+                createdBy:
+                  type: string
+                  example: admin
+      responses:
+        201:
+          description: Task added successfully
+    get:
+      summary: Get task by id
+      tags:
+        - Tasks
+      parameters:
+        - in: path
+          id: taskId
+          required: true
+          schema:
+            type: string
+          description: The ID of the task to retrieve
+      responses:
+        200:
+          description: task fetched successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                    example: task
+                  description:
+                    type: string
+                    example: test
+                  assignedTo:
+                    type: string
+                    example: regular
+                  createdBy:
+                    type: string
+                    example: admin
+  /tasks/{taskId}:
+    get:
+      summary: Get tasks created  by admin
+      tags:
+        - Tasks
+      parameters:
+        - in: path
+          name: taskId
+          required: true
+          schema:
+            type: string
+          description: The ID of the admin to retrieve tasks created by him
+      responses:
+        200:
+          description: tasks fetched successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  firstName:
+                    type: string
+                    example: hadi
+                  lastName:
+                    type: string
+                    example: noureddine
+                  userName:
+                    type: string
+                    example: hadi.noureddine
+                  email:
+                    type: string
+                    example: hadi@gmail.com
+                  password:
+                    type: string
+                    example: Password123
+                  role:
+                    type: string
+                    example: admin
+    delete:
+      summary: Delete task by id
+      tags:
+        - Tasks
+      parameters:
+        - in: path
+          name: taskId
+          required: true
+          schema:
+            type: string
+          description: The ID of the user to delete
+      responses:
+        200:
+          description: task deleted successfully
+    put:
+      summary: Updated task by id
+      tags:
+        - Tasks
+      parameters:
+        - in: path
+          name: taskId
+          required: true
+          schema:
+            type: string
+          description: The ID of the task to retrieve
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  example: task
+                description:
+                  type: string
+                  example: test
+                assignedTo:
+                  type: string
+                  example: regular
+                createdBy:
+                  type: string
+                  example: admin
+      responses:
+        200:
+          description: task updated successfully
+          content:
+            application/json:
+              schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  example: task
+                description:
+                  type: string
+                  example: test
+                assignedTo:
+                  type: string
+                  example: regular
+                createdBy:
+                  type: string
+                  example: admin
