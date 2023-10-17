@@ -87,7 +87,6 @@ describe("User workflow tests", () => {
                           .delete(`/tasks/${taskId}`)
                           .set("Authorization", `Bearer ${token}`)
                           .end((err, res) => {
-                            n;
                             expect(res.status).to.be.equal(200);
                             done();
                           });

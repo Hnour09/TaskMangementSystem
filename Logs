@@ -1939,3 +1939,73 @@
 {"level":"info","message":"API hit: DELETE /users/652dcc95cbc301b6a33c67fe"}
 {"level":"info","message":"Checking for user with id 652dcc95cbc301b6a33c67fe"}
 {"level":"info","message":"Deleted "}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: GET /tasks/652dd41ad1b5d933693d835e"}
+{"level":"info","message":"Checking for task with id 652dd41ad1b5d933693d835e"}
+{"level":"info","message":"task Found"}
+{"level":"info","message":"API hit: PUT /tasks/652dd41ad1b5d933693d835e"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/652dd41ad1b5d933693d835e"}
+{"level":"info","message":"Deleting task"}
+{"level":"info","message":"Task Deleted successfully"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /users/652dd41ad1b5d933693d8363"}
+{"level":"info","message":"Checking for user with id account 652dd41ad1b5d933693d8363"}
+{"level":"info","message":"User Found"}
+{"level":"info","message":"API hit: PUT /users/652dd41ad1b5d933693d8363"}
+{"level":"info","message":"Checking for user with id account 652dd41ad1b5d933693d8363"}
+{"level":"info","message":"updated user "}
+{"level":"info","message":"API hit: DELETE /users/652dd41ad1b5d933693d8363"}
+{"level":"info","message":"Checking for user with id 652dd41ad1b5d933693d8363"}
+{"level":"info","message":"Deleted "}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: GET /tasks/652dd441941998625400a13c"}
+{"level":"info","message":"Checking for task with id 652dd441941998625400a13c"}
+{"level":"info","message":"task Found"}
+{"level":"info","message":"API hit: PUT /tasks/652dd441941998625400a13c"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/652dd441941998625400a13c"}
+{"level":"info","message":"Deleting task"}
+{"level":"info","message":"Task Deleted successfully"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /users/652dd441941998625400a141"}
+{"level":"info","message":"Checking for user with id account 652dd441941998625400a141"}
+{"level":"info","message":"User Found"}
+{"level":"info","message":"API hit: PUT /users/652dd441941998625400a141"}
+{"level":"info","message":"Checking for user with id account 652dd441941998625400a141"}
+{"level":"info","message":"updated user "}
+{"level":"info","message":"API hit: DELETE /users/652dd441941998625400a141"}
+{"level":"info","message":"Checking for user with id 652dd441941998625400a141"}
+{"level":"info","message":"Deleted "}
