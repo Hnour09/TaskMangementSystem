@@ -30,13 +30,12 @@ const createTask = async (req, res) => {
     // before creating account check if user name exist
     logger.info("Creating task");
 
-    await Task.create(data);
+    const createdTask = await Task.create(data);
     // const token = jwt.sign({ userName, role }, "lkshfdka%^@$%#y33%^$%^490");
 
     logger.info("Task created successfully");
 
-    res.status(201);
-    res.send("Task created");
+    res.status(201).json({ taskId: createdTask._id, message: "Task created" });
   } catch (error) {
     logger.error(error?.message);
     res.status(500);
@@ -51,12 +50,12 @@ const updateTask = async (req, res) => {
     // before creating account check if user name exist
     logger.info("Updating task");
 
-    await Task.findByIdAndUpdate({ _id: id }, body, {
+    const updatedTask = await Task.findByIdAndUpdate({ _id: id }, body, {
       new: true,
     });
 
     logger.info("Task Updated successfully");
-    res.status(200).send("Task updated");
+    res.status(200).json({ taskId: updatedTask._id, message: "Task updated" });
   } catch (error) {
     logger.error(error?.message);
     res.status(500).send("Failed to update task");

@@ -11,13 +11,17 @@ const signUp = async (req, res) => {
     // before creating account check if user name exist
     logger.info("Creating account");
 
-    await User.create(body);
+    const createdUser = await User.create(body);
     const token = jwt.sign({ userName, role }, "lkshfdka%^@$%#y33%^$%^490");
 
     logger.info("Account created successfully");
 
     res.status(201);
-    res.send({ token });
+    res.send({
+      userId: createdUser._id,
+      token,
+      message: "Account created successfully",
+    });
   } catch (error) {
     logger.error(error?.message);
     res.status(500);
@@ -41,7 +45,7 @@ const signIn = async (req, res) => {
     logger.info("Logged in successfully");
 
     res.status(200);
-    res.send({ token });
+    res.send({ userId: user._id, token });
   } catch (error) {
     logger.error(error?.message);
     res.status(500);

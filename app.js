@@ -35,3 +35,4 @@ app.use(taskRoutes);
 app.use(usersRoutes);
 
 app.listen(4000, () => logger.info("Server is running on port 4000 . . ."));
+module.exports = app;
