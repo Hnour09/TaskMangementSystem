@@ -2009,3 +2009,24 @@
 {"level":"info","message":"API hit: DELETE /users/652dd441941998625400a141"}
 {"level":"info","message":"Checking for user with id 652dd441941998625400a141"}
 {"level":"info","message":"Deleted "}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /api-docs/"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui.css"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"API hit: GET /api-docs/swagger-ui-init.js"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: GET /tasks/createdBy"}
+{"level":"info","message":"API hit: GET /tasks/createdBy"}

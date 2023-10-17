@@ -253,7 +253,7 @@ paths:
                     example: admin
   /tasks/{taskId}:
     get:
-      summary: Get tasks created  by admin
+      summary: Get tasks created by taskid  
       tags:
         - Tasks
       parameters:
