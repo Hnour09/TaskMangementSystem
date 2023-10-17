@@ -27,12 +27,9 @@ const createTask = async (req, res) => {
     const { userName: createdBy } = req.user;
     const data = { ...body, createdBy };
 
-    // before creating account check if user name exist
     logger.info("Creating task");
 
     const createdTask = await Task.create(data);
-    // const token = jwt.sign({ userName, role }, "lkshfdka%^@$%#y33%^$%^490");
-
     logger.info("Task created successfully");
 
     res.status(201).json({ taskId: createdTask._id, message: "Task created" });
@@ -47,7 +44,7 @@ const updateTask = async (req, res) => {
   try {
     const { id } = req.params;
     const body = req.body;
-    // before creating account check if user name exist
+
     logger.info("Updating task");
 
     const updatedTask = await Task.findByIdAndUpdate({ _id: id }, body, {
@@ -74,7 +71,6 @@ const deleteTask = async (req, res) => {
 
     logger.info("Task Deleted successfully");
 
-    // Assuming you want to send back the updated task
     res.status(200).send("Task deleted");
   } catch (error) {
     logger.error(error?.message);
@@ -84,7 +80,6 @@ const deleteTask = async (req, res) => {
 
 const getTasksCreatedByAdmin = async (req, res) => {
   try {
-    // const { adminId } = req.params;
     const tasks = await Task.find({ createdBy: "admin" });
 
     if (tasks.length === 0) {
