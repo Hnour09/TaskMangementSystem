@@ -2030,3 +2030,62 @@
 {"level":"info","message":"Task created successfully"}
 {"level":"info","message":"API hit: GET /tasks/createdBy"}
 {"level":"info","message":"API hit: GET /tasks/createdBy"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: GET /auth/signin"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"error","message":"Cannot read properties of null (reading 'userName')"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /tasks?createdBy=652dcc77923188e2888cbd7a"}
+{"level":"info","message":"Creating task"}
+{"level":"error","message":"Task validation failed: assignedTo: Path `assignedTo` is required., description: Path `description` is required., name: Path `name` is required."}
+{"level":"info","message":"API hit: GET /tasks?createdBy=652dcc77923188e2888cbd7a"}
+{"level":"info","message":"API hit: GET /tasks?createdBy=hadi.noureddine"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Server is running on port 4000 . . ."}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: POST /tasks"}
+{"level":"info","message":"Creating task"}
+{"level":"info","message":"Task created successfully"}
+{"level":"info","message":"API hit: GET /tasks/65337c797d1f53279eb9a263"}
+{"level":"info","message":"Checking for task with id 65337c797d1f53279eb9a263"}
+{"level":"info","message":"task Found"}
+{"level":"info","message":"API hit: PUT /tasks/65337c797d1f53279eb9a263"}
+{"level":"info","message":"Updating task"}
+{"level":"info","message":"Task Updated successfully"}
+{"level":"info","message":"API hit: DELETE /tasks/65337c797d1f53279eb9a263"}
+{"level":"info","message":"Deleting task"}
+{"level":"info","message":"Task Deleted successfully"}
+{"level":"info","message":"API hit: POST /auth/signup"}
+{"level":"info","message":"Creating account"}
+{"level":"info","message":"Account created successfully"}
+{"level":"info","message":"API hit: POST /auth/signin"}
+{"level":"info","message":"Checking account "}
+{"level":"info","message":"Logged in successfully"}
+{"level":"info","message":"API hit: GET /users/65337c797d1f53279eb9a268"}
+{"level":"info","message":"Checking for user with id account 65337c797d1f53279eb9a268"}
+{"level":"info","message":"User Found"}
+{"level":"info","message":"API hit: PUT /users/65337c797d1f53279eb9a268"}
+{"level":"info","message":"Checking for user with id account 65337c797d1f53279eb9a268"}
+{"level":"info","message":"updated user "}
+{"level":"info","message":"API hit: DELETE /users/65337c797d1f53279eb9a268"}
+{"level":"info","message":"Checking for user with id 65337c797d1f53279eb9a268"}
+{"level":"info","message":"Deleted "}

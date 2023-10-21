@@ -80,7 +80,8 @@ const deleteTask = async (req, res) => {
 
 const getTasksCreatedByAdmin = async (req, res) => {
   try {
-    const tasks = await Task.find({ createdBy: "admin" });
+    const { createdBy } = req.query;
+    const tasks = await Task.find({ createdBy });
 
     if (tasks.length === 0) {
       return res
