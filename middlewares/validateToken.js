@@ -9,11 +9,13 @@ const validateToken = (req, res, next) => {
     return res.send("Missing token");
   }
 
-  const decodedToken = jwt.verify(token, process.env.SECRET_KEY);
-
-  req.user = decodedToken;
-
-  next();
+  try {
+    jwt.verify(token, process.env.SECRET_KEY);
+    next();
+  } catch (error) {
+    res.status(401);
+    return res.send(error.message);
+  }
 };
 
 module.exports = validateToken;

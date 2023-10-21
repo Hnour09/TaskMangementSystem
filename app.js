@@ -14,7 +14,7 @@ require("dotenv").config();
 const rateLimitMiddleware = RateLimiter({
   windowMs: 60 * 1000,
   max: 20,
-  message: "You have exceeded your 5 requests per minute limit.",
+  message: "You have exceeded your 20 requests per minute limit.",
   headers: true,
 });
 
